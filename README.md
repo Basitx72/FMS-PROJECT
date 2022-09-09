@@ -39,7 +39,7 @@ Built using python and flask framework its a  web app
 
 **Client:** Python,Flask
 
-**Server:** Local Hoist
+**Server:** Local Host
 
 ## Feedback
 
